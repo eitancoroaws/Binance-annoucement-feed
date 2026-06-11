@@ -68,12 +68,6 @@ One of our Websocket user got the following results
 
 ```
 
-
-
-Contact **[@BinanceAnnouncementFeed](https://t.me/BinanceAnnouncementFeed)** on Telegram for access.
-
----
-
 ## Contact
 
 - Telegram: @BinanceAnnouncementFeed
