@@ -76,5 +76,5 @@ Contact **[@BinanceAnnouncementFeed](https://t.me/BinanceAnnouncementFeed)** on 
 
 ## Contact
 
-- Telegram: [@BinanceAnnouncementFeed](https://t.me/BinanceAnnouncementFeed)
-- Free channel: [t.me/Binance_Announcement_Feed](https://t.me/Binance_Announcement_Feed)
+- Telegram: @BinanceAnnouncementFeed
+- Free channel: https://t.me/Binance_Announcement_Feed
