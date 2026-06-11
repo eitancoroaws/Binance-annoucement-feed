@@ -65,10 +65,12 @@ As a small example in the TG channel we posted the following news:
 One of our Websocket user got the following results
 <img width="588" height="989" alt="image" src="https://github.com/user-attachments/assets/33979e9f-81cc-4206-9d61-22203cc88d49" />
 
+Contact **[@BinanceAnnouncementFeed](https://t.me/BinanceAnnouncementFeed)** on Websocket access.
 
-```
+---
 
-## Contact
+## What's Coming Next
 
-- Telegram: @BinanceAnnouncementFeed
-- Free channel: https://t.me/Binance_Announcement_Feed
+
+Multi-exchange coverage — OKX, Bybit, Coinbase, Upbit, Bithumb and more. Same sub-millisecond detection, extended to every major exchange that moves markets on announcement events.
+Webhook delivery — push signals directly to your endpoint without maintaining a persistent WebSocket connection.
