@@ -17,7 +17,7 @@ We built the infrastructure to fix that.
 ---
 
 ## Performance
-- **< 2ms** WebSocket signal delivery to subscribers
+- **< 1ms** WebSocket signal delivery to subscribers
 - **Sub-0.25ms** network latency to Binance infrastructure
 - **24.9x** faster detection inner loop vs naive JSON parsing approach
 
